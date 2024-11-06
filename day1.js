@@ -1,3 +1,7 @@
+/*  Desafio 1:
+  Fazer o código imprimir as informações de maneira correta, que 
+  faça sentido e sem erros.
+*/
 let numeroUm = 1
 let stringUm = '1'
 let numeroTrinta = 30
